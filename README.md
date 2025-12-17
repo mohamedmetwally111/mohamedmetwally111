@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there, I'm [Mohamed Metwally] 👋
 
-<!--
-**mohamedmetwally111/mohamedmetwally111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Web Developer · CS Student ·**
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in Computer Science and specialize in Full Stack Web Developer.
+Design and develop complete web applications, focusing on both front-end and back-end.
+Experience working with APIs and Databases to build efficient and scalable systems.
+
+<br clear="right"/>
+
+
+## 🔗 Connect with Me
+
+<div align="center">
+  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mohamed-metwally-3a1962362)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mo7ammed_metwally)
+
+</div>
